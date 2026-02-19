@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Sexy Bitch",
+  "base_artist": "David Guetta",
+  "createdAt": "2026-02-19T10:28:22.314616Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sexy Bitch (Chuckie & Lil Jon mix)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/01_Sexy_Bitch_(Chuckie_&_Lil_Jon_mix)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sexy Bitch",
+      "artist": "De La Soul",
+      "has_synced": true,
+      "path": "select/02_Sexy_Bitch_De_La_Soul.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sexy Bitch (Chuckie & Lil Jon Remix) [Edit]",
+      "artist": "David Guetta feat. Akon",
+      "has_synced": false,
+      "path": "select/03_Sexy_Bitch_(Chuckie_&_Lil_Jon_Remix)_[Edit]_David_Guetta_feat._Akon.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sexy Bitch (feat. Akon) (Chuckie & Lil Jon Remix Edit)",
+      "artist": "David Guetta, Akon",
+      "has_synced": false,
+      "path": "select/04_Sexy_Bitch_(feat._Akon)_(Chuckie_&_Lil_Jon_Remix_Edit)_David_Guetta,_Akon.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sexy Bitch",
+      "artist": "David Guetta feat. Akon",
+      "has_synced": true,
+      "path": "select/05_Sexy_Bitch_David_Guetta_feat._Akon.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Sexy Bitch (feat. Akon)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/06_Sexy_Bitch_(feat._Akon)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Sexy Bitch",
+      "artist": "Kaan Pars feat. JKRS & Xd",
+      "has_synced": true,
+      "path": "select/07_Sexy_Bitch_Kaan_Pars_feat._JKRS_&_Xd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sexy Bitch",
+      "artist": "Kaan Pars/JKRS/Xd",
+      "has_synced": true,
+      "path": "select/08_Sexy_Bitch_Kaan_Pars_JKRS_Xd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sexy Bitch (feat. Akon)",
+      "artist": "David Guetta/Akon",
+      "has_synced": true,
+      "path": "select/09_Sexy_Bitch_(feat._Akon)_David_Guetta_Akon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sexy Bitch (feat. Akon)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/10_Sexy_Bitch_(feat._Akon)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sexy Bitch (feat. Akon)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/11_Sexy_Bitch_(feat._Akon)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sexy Bitch (feat. Akon)",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/12_Sexy_Bitch_(feat._Akon)_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sexy Bitch -",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/13_Sexy_Bitch_-_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sexy Bitch",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/14_Sexy_Bitch_David_Guetta.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sexy Bitch",
+      "artist": "David Guetta feat. Akon",
+      "has_synced": true,
+      "path": "select/15_Sexy_Bitch_David_Guetta_feat._Akon.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sexy Bitch (Chuckie & Lil Jon remix)",
+      "artist": "David Guetta feat. Akon",
+      "has_synced": false,
+      "path": "select/16_Sexy_Bitch_(Chuckie_&_Lil_Jon_remix)_David_Guetta_feat._Akon.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Sexy Bitch",
+      "artist": "Pitbull feat. Akon",
+      "has_synced": false,
+      "path": "select/17_Sexy_Bitch_Pitbull_feat._Akon.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sexy Bitch",
+      "artist": "David Guetta Featuring Akon",
+      "has_synced": true,
+      "path": "select/18_Sexy_Bitch_David_Guetta_Featuring_Akon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sexy Bitch",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/pl_01_Sexy_Bitch_David_Guetta.txt"
+    }
+  ]
+}
